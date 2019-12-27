@@ -1,4 +1,4 @@
-# A guide to reinstalling NVIDIA Drivers, CUDA and cudnn on Ubuntu
+# A guide to reinstalling NVIDIA Drivers and CUDA on Ubuntu
 
 1. Download The runfile (local) for the CUDA version you wish to use at https://developer.nvidia.com/cuda-downloads
 2. Reboot your machine in recovery mode. Instructions [here](https://wiki.ubuntu.com/RecoveryMode)
